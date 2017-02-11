@@ -25,8 +25,53 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e0b86bb3c4e70dd20ecef15f80675a0dd05898e6">
+        sha1="9e938c4d6bc064500f1a3dca7db522a8ad9f0a8c">
         <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2084519afd1da01b253ed1ed12f6ca6952db209d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8eccc17f37388a80a7f052334dffabc65b0c7a53">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_48d79c2968380035b34e72269771203a5f6d6e60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_a2ecd9580d172a689b2391323a2791c9d477ecb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_6fe6b49ef29c543e08f5c77dacfa9231793d70e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f8d7712ea75d3575f9aeed98a36a6a5e3fc40d94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_afc4aa3602730723279d3aba4f1722adaa2fef18\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,30 +93,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5294281a10dd7e96b36ab3287622d3173fc35bdf">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_48d79c2968380035b34e72269771203a5f6d6e60\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
         <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_06b26876b4c9fb0c98c8b190436e0bd795ad2c31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_a2ecd9580d172a689b2391323a2791c9d477ecb5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,21 +111,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.github.xdtianyu\ColorPicker\v0.0.4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="96ebd0585f1f7062d26a9d73bce026c863e409e0">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.xdtianyu-ColorPicker-v0.0.4_96d43a69f6a951ae3490ac75292802f25328d104\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
         <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_b74ae3d5a79a3c71e35770d72d6f23231652636d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.github.xdtianyu\ColorPicker\v0.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96ebd0585f1f7062d26a9d73bce026c863e409e0">
+        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.xdtianyu-ColorPicker-v0.0.4_96d43a69f6a951ae3490ac75292802f25328d104\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,39 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_6fe6b49ef29c543e08f5c77dacfa9231793d70e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
         <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_6183d5f07c82106cb453e6949551a0db44e9d3e6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f8d7712ea75d3575f9aeed98a36a6a5e3fc40d94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\DJA45\Desktop\steelhacks2017-master\PTrack\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_afc4aa3602730723279d3aba4f1722adaa2fef18\classes.dex" />
     </item>
 
 </items>
