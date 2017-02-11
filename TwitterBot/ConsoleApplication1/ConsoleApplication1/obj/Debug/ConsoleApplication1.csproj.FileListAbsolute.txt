@@ -1,0 +1,12 @@
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Hammock.ClientProfile.dll
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\TweetSharp.dll
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Hammock.ClientProfile.pdb
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\TweetSharp.pdb
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\dja45\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

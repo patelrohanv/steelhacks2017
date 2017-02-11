@@ -1,0 +1,8 @@
+set up new TwitterService
+authenticated
+created tweet
+testtweet yo
+assigned status to tweet
+tweet sent!
+End of program. Press any key to exit.
+d
