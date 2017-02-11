@@ -1,7 +1,0 @@
-#Sat Feb 11 11:33:47 EST 2017
-base.0=C\:\\Users\\DJA45\\Desktop\\steelhacks2017-master\\PTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_48d79c2968380035b34e72269771203a5f6d6e60
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\DJA45\\Desktop\\steelhacks2017-master\\PTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2084519afd1da01b253ed1ed12f6ca6952db209d\\classes.dex
-base.1=C\:\\Users\\DJA45\\Desktop\\steelhacks2017-master\\PTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2084519afd1da01b253ed1ed12f6ca6952db209d
-file.0=C\:\\Users\\DJA45\\Desktop\\steelhacks2017-master\\PTrack\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_48d79c2968380035b34e72269771203a5f6d6e60\\classes.dex
