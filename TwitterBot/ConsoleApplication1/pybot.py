@@ -16,8 +16,12 @@ api = tweepy.API(auth)
 rate_limit = api.rate_limit_status()
 user = api.get_user('AntiHHarassment')
 
-txt = urllib.request.urlopen("http://www.bannedwordlist.com/lists/swearWords.txt").read()
+#txt = urllib.request.urlopen("http://www.bannedwordlist.com/lists/swearWords.txt").read()
+txtOne = open('games.txt')
+txtTwo = open('badwords.txt')
+
 s = "ocean"
-for word in txt:
-    for tweet in tweepy.Cursor(api.search,q=word).items(10):
-        print('Tweet by: @' + tweet.user.screen_name)
+for game in games:
+    for word in badwords:
+        for tweet in tweepy.Cursor(api.search,q=word).items(10):
+            print('Tweet by: @' + tweet.user.screen_name)
