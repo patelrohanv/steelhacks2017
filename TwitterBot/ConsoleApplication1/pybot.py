@@ -26,5 +26,6 @@ print(txtTwo)
 
 for game in games:
     for word in badwords:
-        for tweet in tweepy.Cursor(api.search,q=word).items(10):
+        for tweet in tweepy.Cursor(api.search,q=[game,word]).items(10):
             print('Tweet by: @' + tweet.user.screen_name)
+            #print(tweet)
