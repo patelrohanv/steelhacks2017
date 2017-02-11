@@ -22,20 +22,27 @@ txtOne = games.read().splitlines()
 txtTwo = badwords_textFile.read().splitlines()
 games = txtOne
 badwords = txtTwo
+ignoreWordsArray = ['youtube', 'twitch', 'instagram', 'facebook', 'twitter', 'snapchat', 'reddit', 'tumblr', 'myspace']
 #print(txtOne)
 #print(txtTwo)
 wordcount = [len(games)]
 i = -1
+flag = False
 for game in games:
     i = i+1
     count = 0
     wordcount[i] = count
     for word in badwords:
         for tweet in tweepy.Cursor(api.search,q=[game,word]).items(100):
-            count = count+1
-            wordcount[i] = count
-            #print('Tweet by: @' + tweet.user.screen_name)
-            #print(tweet.text)
+            for ignoreword in ignoreWordsArray:
+                if ignoreword in tweet.text:
+                    flag = True 
+                    #if the flag is true, this tweet should be ignored.
+            if flag == False:
+                count = count+1
+                wordcount[i] = count
+                #print('Tweet by: @' + tweet.user.screen_name)
+                #print(tweet.text)
 
 for i in range(0,len(games)):
     print(games[i])
