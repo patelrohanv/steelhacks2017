@@ -1,2 +1,4 @@
 Username: AntiHHarassment
 Pass: steelhacks
+
+http://www.bannedwordlist.com/lists/swearWords.txt
