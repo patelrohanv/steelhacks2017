@@ -1,6 +1,7 @@
 ﻿#!/usr/bin/python3
 import json
 import tweepy
+import urllib
 
 consumer_key = 'ZoSd0CJN61VpfgjWVAeIpjjib'
 consumer_secret = '11hd2TiCXz7Fv8zZre7cwD1prXsOmBbB8roVr8Mw1PfZetgwIJ'
@@ -15,6 +16,8 @@ api = tweepy.API(auth)
 rate_limit = api.rate_limit_status()
 user = api.get_user('AntiHHarassment')
 
+txt = urllib.request.urlopen("http://www.bannedwordlist.com/lists/swearWords.txt").read()
 s = "ocean"
-for tweet in tweepy.Cursor(api.search,q=s).items(10):
-    print('Tweet by: @' + tweet.user.screen_name)
+for word in txt:
+    for tweet in tweepy.Cursor(api.search,q=word).items(10):
+        print('Tweet by: @' + tweet.user.screen_name)
