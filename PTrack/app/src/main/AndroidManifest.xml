@@ -16,8 +16,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".FormOne"
-            android:label="@string/title_activity_form_one"
+            android:name=".PeeForm"
+            android:label="@string/title_activity_pee_form"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

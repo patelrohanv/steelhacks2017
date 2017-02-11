@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Toast.makeText(MainActivity.this, "This is an alert", Toast.LENGTH_SHORT).show();
-                Intent intent = new Intent(MainActivity.this, FormOne.class);
+                Intent intent = new Intent(MainActivity.this, PeeForm.class);
                 startActivityForResult(intent, 200);
             }
         });
